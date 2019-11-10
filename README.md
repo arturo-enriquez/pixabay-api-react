@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7059e314-cd02-454a-a665-1c9ec7e9be16/deploy-status)](https://app.netlify.com/sites/pixabay-api/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
